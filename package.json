@@ -1,0 +1,9 @@
+{
+  "name": "clipnest-static-blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ClipNest static website with automatic Markdown blog generation",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
